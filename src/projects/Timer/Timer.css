@@ -1,0 +1,12 @@
+.timer{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    padding-top: 10%;
+    justify-content: center;
+}
+
+.numbers{
+    font-size: 120px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
